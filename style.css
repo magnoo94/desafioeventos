@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: aquamarine;
+}
+
+.menu a:active {
+    background: black
+}
+
+#facebook {
+    color: blue;
+}
+
+#instagram {
+    color: red;
+}
+
+#twitter {
+    color: blue;
+}
+
+#tiktok {
+    color: red;
+}
+
+#snapchat {
+    color: blue;
+}
+
+.menu-btn {
+    color: black;
+}
